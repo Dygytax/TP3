@@ -64,9 +64,10 @@ namespace TP3
       Console.WriteLine($"The mean of all budget is : {meanBudget}");
       Console.WriteLine($"The mean of all budget is : {meanBoxOffice}");
       
+      //Exercice 2
+      CreateThread();
+      
     }
-    
-    //Exercice 2
     
     public static void CreateThread()
     {
